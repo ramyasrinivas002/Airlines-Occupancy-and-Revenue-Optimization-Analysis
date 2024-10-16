@@ -1,2 +1,2 @@
 # Airlines-Occupancy-and-Revenue-Optimization-Analysis
-Optimized airline occupancy and profitability using booking and revenue data. Conducted EDA, analyzed pricing and performance, and used visualizations to highlight trends. Modeled a 10% occupancy increase and suggested strategies to boost profit per seat.
+Developed a data solution to optimize occupancy and increase profitability for an airline using booking and revenue data. Conducted EDA to identify factors impacting low occupancy and analyzed pricing and performance. Used visualizations to show revenue trends. Modeled a 10% occupancy increase to project revenue growth. Proposed pricing strategies and customer experience improvements to maximize profit per seat.
